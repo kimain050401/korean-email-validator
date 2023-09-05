@@ -10,7 +10,7 @@ pip install korean-email-validator
 
 # Use Example
 ```python
-import korean_email_validator.py
+import korean_email_validator
 
 print(email_check("user@example.com"))
 ```
